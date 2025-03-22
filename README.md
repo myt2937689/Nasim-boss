@@ -11,14 +11,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Max-fro-man&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-fro-man&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies{{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
+## 🏆 GitHub Trophies{{𝗡𝗔𝗦𝗜𝗠}}{{𝗞𝗜𝗡𝗚}}
 ![](https://github-profile-trophy.vercel.app/?username=Max-fro-man&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote{{𝗡𝗔𝗦𝗜𝗠}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo{{𝗡𝗔𝗦𝗜𝗠}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
-![](https://github-contributor-stats.{{𝗡𝗔𝗦𝗜𝗠}}vercel.app/api?username=Max-fro-man&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.{{𝗡𝗔𝗦𝗜𝗠}}vercel.app/api?username=BD-CYBER-TEAM&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme{{𝗡𝗔𝗦𝗜𝗠}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 <img src="https://rm.up.railway.app/" width="512px"/>
